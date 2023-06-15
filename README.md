@@ -1,2 +1,2 @@
 # othello
-オセロを作成
+typescriptとReactを用いてオセロを作成
